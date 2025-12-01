@@ -1,0 +1,16 @@
+{
+  "name": "simple-search-api",
+  "version": "1.0.0",
+  "description": "A simple search API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "keywords": ["search", "api", "node", "express"],
+  "author": "",
+  "license": "ISC"
+}
